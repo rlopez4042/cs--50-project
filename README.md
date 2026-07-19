@@ -5,6 +5,7 @@ This repo has the Software Requirements Specification and Software Design Specif
 ## Project Files
 
 - Software requirements and design document
+    - Link: https://docs.google.com/document/d/1yyx0_4LGc5v5a1XLdlcTYT3I-XEFPCmf/edit
 - Diagrams
 
 ## Author
